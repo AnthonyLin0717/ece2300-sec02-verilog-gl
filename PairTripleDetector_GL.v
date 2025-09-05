@@ -41,7 +41,7 @@ module PairTripleDetector_GL
     check( 1, 1, 0, 1 );
     check( 1, 1, 1, 1 );
 
-
+    // ok
 
     t.test_case_end();
   endtask
